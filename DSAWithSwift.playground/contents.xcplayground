@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Chapter 2 Complexity'/>
+        <page name='Chapter 3 Swift Standard Library'/>
+        <page name='Chapter 4 Stacks'/>
+        <page name='Chapter 5 Stack Challenges'/>
+        <page name='Chapter 6 Linked Lists'/>
+        <page name='Chapter 7 Linked Lists Challenge'/>
+        <page name='Chapter 8 Queues'/>
+    </pages>
+</playground>
